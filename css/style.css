@@ -16,11 +16,12 @@ ul,ol{
 a{
     text-decoration: none;
 }
-h1,h2,h3,h4,h5,h6,p{
+
+/* h1,h2,h3,h4,h5,h6,p{
     margin: 0;
     padding: 0;
-    /* line-height: 0.8px; */
-}
+    line-height: 0.8px;
+} */
 /* All Common Css End  */
 
 /* Header Part Start  */
@@ -129,7 +130,7 @@ h1,h2,h3,h4,h5,h6,p{
 }
 .counterItems{
     width: 23%;
-    padding: 25PX;
+    padding: 25px;
     align-items: center;
     text-align: center;
     text-transform: uppercase;
